@@ -76,7 +76,7 @@ J’aime concevoir, optimiser et automatiser les infrastructures pour rendre les
 ## 📫 Me contacter
 
 - 🌐 [LinkedIn – Julien Meunier](https://www.linkedin.com/in/meunier-julien/)
-- 💻 [GitHub – @meunier-julien](https://github.com/meunier-julien)
+- 💻 [GitHub – @meunier-julien](https://github.com/mjulienmnr)
 
 ---
 
