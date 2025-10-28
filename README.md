@@ -68,8 +68,8 @@ J’aime concevoir, optimiser et automatiser les infrastructures pour rendre les
 
 ## 📊 Statistiques GitHub
 
-![Julien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meunier-julien&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meunier-julien&layout=compact&theme=default)
+![Julien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julienmnr&show_icons=true&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienmnr&layout=compact&theme=default)
 
 ---
 
